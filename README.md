@@ -1,6 +1,6 @@
 # rag-example
 
-A Retrieval-Augmented Generation (RAG) based Chinese chess learning assistant project. It builds a knowledge base by processing PDF documents and provides intelligent Q&A functionality.
+A RAG (Retrieval-Augmented Generation) example project. It builds a knowledge base by processing PDF documents and provides intelligent Q&A functionality.
 
 ## Features
 - PDF document loading and chunking
